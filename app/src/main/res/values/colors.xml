@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="military_dark">#141B10</color>
+    <color name="military_dark_2">#1B2416</color>
+    <color name="military_dark_3">#26301C</color>
+    <color name="military_dark_4">#2E3A22</color>
+    <color name="military_olive">#3E4E2D</color>
+    <color name="military_olive_light">#5A6C3F</color>
+    <color name="military_olive_soft">#7C8B5A</color>
+    <color name="military_khaki">#C9B26B</color>
+    <color name="military_khaki_soft">#D8C98F</color>
+    <color name="military_sand">#E8DFC4</color>
+    <color name="military_parchment">#F2ECD8</color>
+    <color name="military_text_dark">#26301C</color>
+    <color name="military_text_muted">#5C634C</color>
+    <color name="military_green_ok">#2E6B36</color>
+    <color name="military_red">#8E3A2C</color>
+    <color name="military_gold">#A9822B</color>
+    <color name="military_card">#E61B2416</color>
+    <color name="military_stroke">#66C9B26B</color>
+</resources>

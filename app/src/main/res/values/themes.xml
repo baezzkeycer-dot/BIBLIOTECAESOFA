@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BIBLIOTECAESOFA" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/military_khaki</item>
+        <item name="colorOnPrimary">@color/military_dark</item>
+        <item name="colorPrimaryContainer">@color/military_olive</item>
+        <item name="colorOnPrimaryContainer">@color/military_sand</item>
+        <item name="colorSecondary">@color/military_olive_light</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/military_dark_2</item>
+        <item name="colorOnSurface">@color/military_sand</item>
+        <item name="colorSurfaceVariant">@color/military_dark_3</item>
+        <item name="colorOnSurfaceVariant">@color/military_sand</item>
+        <item name="colorSurfaceDim">@color/military_dark</item>
+        <item name="colorSurfaceBright">@color/military_olive</item>
+        <item name="colorSurfaceContainerLowest">@color/military_dark</item>
+        <item name="colorSurfaceContainerLow">@color/military_dark_2</item>
+        <item name="colorSurfaceContainer">@color/military_dark_3</item>
+        <item name="colorSurfaceContainerHigh">@color/military_dark_3</item>
+        <item name="colorSurfaceContainerHighest">@color/military_dark_4</item>
+        <item name="colorSurfaceInverse">@color/military_sand</item>
+        <item name="colorOnSurfaceInverse">@color/military_parchment</item>
+        <item name="colorOutline">@color/military_olive_soft</item>
+        <item name="colorOutlineVariant">@color/military_olive</item>
+        <item name="android:statusBarColor">@color/military_dark</item>
+        <item name="android:navigationBarColor">@color/military_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:textColorPrimary">@color/military_sand</item>
+        <item name="android:textColorSecondary">@color/military_khaki</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="Theme.BIBLIOTECAESOFA" parent="Base.Theme.BIBLIOTECAESOFA" />
+
+    <style name="Widget.Biblioteca.Badge" parent="android:Widget.TextView">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingBottom">3dp</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.04</item>
+    </style>
+</resources>

@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">BIBLIOTECA ESOFA</string>
+
+    <string name="login_brand">BIBLIOTECA</string>
+    <string name="login_brand_accent">ESOFA</string>
+    <string name="login_tagline">Sistema de reserva de material bibliográfico</string>
+    <string name="login_heading">Iniciar sesión</string>
+    <string name="login_subheading">Accede con tu cuenta institucional</string>
+    <string name="login_user_hint">Usuario</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_action">INGRESAR</string>
+    <string name="login_register">Crear cuenta</string>
+    <string name="login_demo">Acceso demo: admin / 1234</string>
+    <string name="login_footer">Uso exclusivo del personal autorizado</string>
+    <string name="login_empty_fields">Ingresa tu usuario y contraseña</string>
+    <string name="login_invalid">Usuario o contraseña incorrectos</string>
+    <string name="login_welcome">Bienvenido, %1$s</string>
+
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Registra un nuevo usuario para la biblioteca</string>
+    <string name="register_user_hint">Nuevo usuario</string>
+    <string name="register_password_hint">Contraseña</string>
+    <string name="register_confirm_hint">Confirmar contraseña</string>
+    <string name="register_action">Crear</string>
+    <string name="register_success">Cuenta creada. Ya puedes iniciar sesión.</string>
+    <string name="register_exists">Ese usuario ya está registrado</string>
+    <string name="register_mismatch">Las contraseñas no coinciden</string>
+    <string name="register_short_user">El usuario debe tener al menos 3 caracteres</string>
+    <string name="register_short_password">La contraseña debe tener al menos 4 caracteres</string>
+
+    <string name="catalog_title">BIBLIOTECA ESOFA</string>
+    <string name="catalog_welcome">Hola, %1$s</string>
+    <string name="catalog_subtitle">Separa tu libro y recógelo con tu código en 15 minutos</string>
+    <string name="catalog_logout">SALIR</string>
+    <string name="catalog_summary">Disponibles: %1$d de %2$d</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_available">Disponibles</string>
+    <string name="filter_mine">Mis reservas</string>
+
+    <string name="book_available">DISPONIBLE</string>
+    <string name="book_reserved">RESERVADO</string>
+    <string name="book_mine">TU RESERVA</string>
+    <string name="book_reserve">SEPARAR LIBRO</string>
+    <string name="book_cancel">Cancelar separación</string>
+    <string name="book_code">Código: %1$s</string>
+    <string name="book_pickup">Recoger en %1$s</string>
+    <string name="book_available_in">Libre en %1$s</string>
+    <string name="book_cover_description">Portada de %1$s</string>
+
+    <string name="empty_all">No hay libros en la biblioteca</string>
+    <string name="empty_available">No hay libros disponibles por ahora</string>
+    <string name="empty_mine">Aún no tienes reservas activas</string>
+
+    <string name="reserve_success_title">Reserva confirmada</string>
+    <string name="reserve_success_book">Libro: %1$s</string>
+    <string name="reserve_code_label">TU CÓDIGO DE RECOGIDA</string>
+    <plurals name="reserve_validity">
+        <item quantity="one">Válido hasta las %1$s (%2$d minuto)</item>
+        <item quantity="other">Válido hasta las %1$s (%2$d minutos)</item>
+    </plurals>
+    <string name="reserve_instructions">Presenta este código en la biblioteca para reclamar tu libro. Si el tiempo expira, el libro vuelve a estar disponible.</string>
+    <string name="reserve_ok">Entendido</string>
+    <string name="reserve_taken">Ese libro acaba de ser reservado</string>
+
+    <string name="cancel_title">Cancelar separación</string>
+    <string name="cancel_message">¿Deseas liberar este libro? Tu código dejará de ser válido.</string>
+    <string name="cancel_action">Sí, liberar</string>
+    <string name="cancel_done">Reserva cancelada</string>
+
+    <string name="book1_title">Arte de la Guerra</string>
+    <string name="book1_author">Sun Tzu</string>
+    <string name="book1_synopsis">Tratado clásico sobre estrategia, disciplina y liderazgo. Una guía esencial para la toma de decisiones en escenarios de conflicto.</string>
+
+    <string name="book2_title">Manual del Soldado</string>
+    <string name="book2_author">Ejército Nacional</string>
+    <string name="book2_synopsis">Fundamentos de instrucción, honor y deber. Compendio práctico de procedimientos básicos para la vida militar.</string>
+
+    <string name="book3_title">Historia Militar de Colombia</string>
+    <string name="book3_author">Academia de Historia</string>
+    <string name="book3_synopsis">Recorrido por las campañas, héroes y transformaciones de las fuerzas armadas colombianas a lo largo de su historia.</string>
+
+    <string name="book4_title">Estrategia y Táctica</string>
+    <string name="book4_author">Carlos E. Rojas</string>
+    <string name="book4_synopsis">Principios de planeación operacional, análisis del terreno y conducción de unidades en el campo de batalla.</string>
+
+    <string name="book5_title">Logística Militar</string>
+    <string name="book5_author">Andrés M. Pinzón</string>
+    <string name="book5_synopsis">Gestión de suministros, transporte y sostenimiento de tropas. Claves para mantener la operación en marcha.</string>
+
+    <string name="book6_title">Símbolos y Banderas</string>
+    <string name="book6_author">Instituto Castrense</string>
+    <string name="book6_synopsis">Significado e historia de los emblemas, insignias y banderas que identifican a las unidades militares.</string>
+
+    <string name="book7_title">Valor y Honor</string>
+    <string name="book7_author">Teniente J. Salazar</string>
+    <string name="book7_synopsis">Relatos de liderazgo y servicio. Una reflexión sobre los valores que sostienen la vocación militar.</string>
+
+    <string name="book8_title">Armamento y Defensa</string>
+    <string name="book8_author">Centro de Estudios Técnicos</string>
+    <string name="book8_synopsis">Introducción al equipamiento, la protección y las tecnologías empleadas en la defensa moderna.</string>
+</resources>
